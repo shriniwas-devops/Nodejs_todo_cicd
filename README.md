@@ -1,5 +1,10 @@
 # node-todo-cicd
 
+Project Architecture:
+
+<img width="1068" alt="nodejs" src="https://user-images.githubusercontent.com/122585172/235133400-128a77c1-eef7-4ebc-bc56-a1ddc2136fbf.png">
+
+
 This project  is about the deployment of the Node.js application on the Amazon EKS Kubernetes cluster. We will set up a pipeline with Jenkins.
 
 Jenkins GitHub Webhook automates the build and deployment of applications when any commit is done to the source code.
